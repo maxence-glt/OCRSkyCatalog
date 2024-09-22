@@ -5,8 +5,8 @@ All data (including this README) was scraped from the Sky Catalog 2000.0 with Te
 ### Name
 The nebula’s number in J. L. E. Dreyer’s New General Catalogue of Nebulae and Clusters of Stars (NGC) or Index Cata-logue (IC). When not so numbered, the designation is that of one of the following authors: Cederblad (Ced); Gum; Minkowski (M1); Rodgers, Campbell, and Whiteoak (RCW); Sharpless (Sh2); van den Bergh (vdB); van den Bergh and Herbst (vdBH).
 
-### α 2000 and δ 2000
-Right ascension and declination, referred to the 2000.0 equinox.
+### α 2000 (RA) and δ 2000 (Dec)
+Right ascension and declination, referred to the 2000.0 equinox. For RA, first digit is hour, next 2 are minutes (003.6 == 0 hour, 3.6 minutes). For Dec, first 2 digits are degrees, second 2 are arcminutes (+6837 == +68 degrees, 37 arcminutes)
 
 ### Const 
 Constellation in which the nebula is located, according to the coordinates given. Some nebulae may span more than one constellation.
