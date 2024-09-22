@@ -1,23 +1,42 @@
 from os import listdir
 from os.path import isfile, join
+import csv, re
+import cv2
 
 import pytesseract
 from PIL import Image
 
-# IMPORTANT: this should end with '...\tesseract.exe'
-# pytesseract.pytesseract.tesseract_cmd = 
-
-list_with_many_images = ["Objects/" + f for f in listdir("Objects") if isfile(join("Objects", f))]
+unsorted_objects = ["Objects/" + f for f in listdir("Objects")]
+sorted_objects = sorted(unsorted_objects, key=lambda x: int(x[33:35].replace('.', '')))
 
 def image_to_str(path):
     return pytesseract.image_to_string(Image.open(path))
 
-# with open("out.csv", "w+", encoding="utf-8") as file:
-#   file.write("ImagePath, ImageText")
-#   for image_path in list_with_many_images:
-#     print(image_path)
-#     text = image_to_str(image_path)
-#     line = f"{image_path}, {text}\n"
-#     file.write(line)
+def split_line(line):
+	line = re.sub(r'\s+', ' ', line)
+	fields = line.split(' ')
+	formatted_fields = []
 
-print(image_to_str("Objects/SkyCatalog-BrightNebulae-0.png"))
+	for field in fields:
+		field.replace(",", " ", 1)
+		formatted_fields.append(field.replace('°', '').replace("'", '').replace("’", ''))
+        
+	while len(formatted_fields) < 15:
+		formatted_fields.append('')
+
+	return formatted_fields
+
+with open("out.csv", "a", newline='') as file:
+	writer = csv.writer(file)
+	text = image_to_str(sorted_objects[7]).splitlines()
+	for line in text:
+		fields = split_line(line)
+		fields[0:2] = [' '.join(fields[0:2])]
+		if (fields[0] == ' '):
+			continue
+
+		writer.writerow(fields)
+	
+
+# Name,RA,Dec,Const,Type,DimMax,DimMin,Vis,Brightness,Color,Shape,Structure,HD,*Mag,*Spec,Notes
+# NGC 7822,0036,+6837,Cep,E,60,30,eeF,3,R, , , , , ,Arc of nebulosity n of Ced 214
