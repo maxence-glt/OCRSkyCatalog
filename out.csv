@@ -1,4 +1,7 @@
 Name,RA,Dec,Const,Type,DimMax,DimMin,Vis,Brightness,Color,Shape,Structure,HD,*Mag,*Spec,Notes
+
+Nebulae-0:
+
 NGC 7822,otos™s,+6837,Cep,E,60,30,eoF,3R,Are,of,nebulosity,n,of,Ced,214
 Ced 214,0,04.7,+6710,Cep,E+R,50,40,2R,IrAF,225216?,5.67,gK1,Surrounded,by,faint,nebulous,arcs;,this
 vdB 1,011.0,+58,46,Cas,R,9,2,VB,627,8.6,A,|,is,often,confused,with,NGC,7822
@@ -25,7 +28,7 @@ NGC 1432,3.45.8,+2422,Tau,R,30,30,eF,2,VB,23408,3.88,B7III,[Maia],nebulosity
 Ced 19h,3.45.9,+24,33,Tau,R,15.15,3,VB,23432,5.76,B8V,[Sterope],
 NGC 1435,SAG),e+2304745,Tau.,7,R,30,30,vF,2,VB,23480,4.18,B6IVon,[Merope],Tempels,nebula
 
-0^
+Nebulae-1:
 
 Ic 349,3,46.3,+23,56,Tau,eF,Very,"small,",36”,sf,Merope,,
 vdB 23,3.47.5,+2406,Tau,R,27,(27,3,VB,23630,2.87,B7III,[Alcyone],
@@ -53,7 +56,7 @@ Ic 2118,5,06.9:,-7,13:,Eri,R,180,60,F3B,34085,0.12,B8Iae:,[Rigel]
 Ic 405,5.16.2,+3416,Aur,R,20,2,34078,5.96v,09.5Ve:,Reflection,part,of,IC,"405,",sf,AE,Aur
 IC 405,5,16.2,+3416,Aur,E,30719),pB2R,IrAF,34078,5.96v,09.5Ve:,Flaming,Star,nebula.,[AE,Aur]
 
-1^
+Nebulae-2:
 
 $h2-223 517.2,+4212,Aur,E,70,10,4,VR,IrAF,SNR,,,,
 vdB 37,5,18.2,+13,24,Ori,R,15,3,VR,34454,8.2,gM5,
@@ -81,7 +84,7 @@ $h2-264 $35:,"+10:,",Ori,E,270,240,4R,CA,36861-2,3.39,O8e+BO.5V,[A,Ori],
 NGC 1990,"$)36.2000-1812,",9,Orie,E+R.,SOWFS0,3B,37128,1.70,BOIae,fe,Ori],,
 NGC 1999,5,36.5,-6,42,Ori,E+tR,16,12,ak,2),9.3,B8,With,IC,427-8,nf.,[V380,Ori]
 
-2^
+Nebulae-3:
 
 IC 426,s36™g,-015,Ori,R,5,45a,VE,2B,37140,8.54,BO,Fan-shaped,
 IC 430,5,38.5,=-705,Ori,®,it,it,2,37507,4.80,A4V,Fan-shaped.,[49,Ori]
@@ -109,17 +112,149 @@ $h2-276 5,48:,+1:,Ori,E,600,30,3R,37742,2.05,09.5Ibe,Barnards,"Loop,",f,part.,[�
 5 56:,-6:,Ori,E,600,20,3,VR,Southern,extension,of,Barnards,Loop,
 NGC 2149,603.5,-9,44,Mon,R,3,2,F2B,9.3,,,,
 
-3^
+Nebulae-4:
 
-4^
+$h2-241 604.1,+3015,Aur,E+R,10,2,IrAF,,,,,,,
+NGC 2170,607.5,-624,Mon,R,2,2,vF,1,MB,9.5,BL,,
+Sh2-247 6,08.5,+2137,Gem,E,10,10,3,VR,CA,41690,7.71,BV,
+$h2-261 6,08.9,+15,49,Ori,E,3015,3R,419977,8.42,08,Lowers,nebula,
+Cad 62,609.2,+18,41,Ori,R,30,2,28,13,Two,symmetrical,fans,extending,n~s
+NGC 2182,609.5,-6,20,Mon,R,30,3,1B,42261,9.0,B44,,
+NGC 2174-5,609.7,+2030,Ori,£E,40,30,oF,1R,IAF,42088,7.55,06,With,IC,2159,sf.,Contains,cluster
+NGC 2183,610.8,-613,Mon,R,1,1,oF,3B,13,,,,
+NGC 2185,611.1,-613,Mon,RF,3.,3,vF,3B,12,,,,
+Ic 2162,612.9,+1759,Ori,E,154,vF,2R,C,AF,10,Also,Sh2,"256-8,",with,p-f,extensions
+NGC 2195,614.4,+1739,Ori,F,Smatl,and,faint.,IC,2162,is,30,mp,
+IC 443,616.9,+22,47,Gem,E,50,40,F2,EF,43078,8.78,BOIV,"SNR,",with,PSR,0611+22,near,center
+IC 444,6,20.4,+23,16,Gem,R,8,4,3,VB,43836,7.5,BSI,(12,Gen]
+IC 446,6,31.0,+10,27,Mon,R,5,4,3B,10.5,BL,Same,as,IC,2167
+Ic 2169,6,"31,2",+954,Mon,R,25,20,FAB,Same,as,IC,447,
+"NGC 2237-9,46",6,32.3,+503,Mon,E,80,60,pB1ik,NGC,2244,Rosette,nebula,
+IC 448,632.7,+719,Mon,R,15,10,3,VB,46300,4.48,AOI,[13,Mon]
+NGC 2245,6,32.7,+1010,Mon,R,5s,3,11,10.8,Bip,,,
+NGC 2247,6,33.2,+1020,Mon,R,4,3,eF,21,259431,8.74,Bépe,
+$h2-282 6,38.0,+131,Mon,£E,40,15,3.,R,IraAF,47432,6.21,09.S51IT,
+NGC 2261,6,39.2,+8,44,Mon,E+R,2,1,B1iiI,R,Mon,"10,0",v,Hubdbles,variable,neb.,(fan-shaped)
+NGC 2264,640.9,+954,Mon,£E,60,30,1R,IrAF,47839,4.66v,O7Ve,Cone,nebula.,[S,Mon]
+NGC 2282,646.9,+119,Mon,R,303,F311,289120,9.3,B3,Same,as,IC,2172
+NGC 2316,659.7,~7,46,Mon,EHR,4,3,pF,2B,,,,
+Gon 1,704.3,-10,28,Mon,E+R,20,20,2R,IAF,53367,6.96,BOIVe?,RCW,2
 
-5^
+Nebulae-5:
 
-6^
+IC 2177,705.1,-10,42,Mon,E,120,40,3R,54662,6.21,O71II,Gom,"2,",RCW,"1,",Sh2-296
+Ced 90,7:05.2,-12,20,CMa,E+tR,10,10,11,IrAF,53623,8.5,BS,Gun,"3,",RCW,1
+IC 466,708.6,-419,Mon,EHR,1,1,vF,2,RR,IcAF,,,
+$h2-301 709.8,-18,29,CMa,£E,8,7,1R,E,AF,10,Gun,"5,",RCW,6
+NGC 2362,7:13.41:,-24,35:,CMa,E,300,906,5,VR,IrAF,57061,4.40,O9Ib,[cv,CMa]
+Sh2-294 716.6,-926,Mon,E,8,7,2R,~,IrAF,,,,,
+Ic 468,717.5,-13,49S,CMe,OE,20,20,vF,3,BR,,,
+NGC 2359,718.6,-13,12,CMa,E,8,6,vF?,2R,IrF,36925,WN4,Gum,"4,",RCW,"5,",ring-shaped
+vdB 96,719.6,-23,58,CMa,BR,10,65,3B,57281,9.2,BS,Several,components
+$h2-302 731.6,-16,58,Pup,£E,20,«20,4R,EA,$9934,7.8,BS5.5V¥,Gum,"6,",RCW,7
+vdB 97,732.6,-16,54,Pup,R,2,3B,9.9,Near,H,II,region,Sh2-302
+$h2-307 735.5,-18,46,Pup,£E,4,4,3,VR,IraF,Gam,"7,",RCW,12
+vdB 98,7,36.4,-25,20,Pup,R,1515,3,VB,61071,7.3,BS,
+NGC 2467,7,52.5,-26,24,Pup,E,8,7,PBiRk,IrAF,64315,9.2,B,Gum,"9,",RCW,16.,Faint,streamers,and,cl.
+NGC 2579,820.9,-36,13,Pup,£E,2,10.2,Gum,"11,",RCW,20,,
+Gum 12,8,30:,45:,Vel,E,1200,720,4,cr,Gum,"nebula,",Vela,SNR,with,PSR,0833-45
+NEC 2626,835.6,-40,40,Vel,ER,5,pB,1,10.02,B1V,,,
+Gum 15,844.6,-4117,Vel,E,20,3,RCW,"32,",Brighter,knot,in,Gum,nebula
+Gua 17,8,$0.5,-42,07,Vel,E,100,65,31,RCW,"3,",Bright,"knot,",dark,lane,in,Gun
+Gun 23,859.7,-47,27,Vel,£E,20,«#10,2,RCW,38.,Part,of,Gum,nebule
+Sh2-312 9,00:,~26:,Pyx,E,720,3,IrAF,,,,,,
+Gum 25,902.4,-48,42,Vel,£E,7,6,2,RCW,40,,,
+RCW 47,1003.2,-58,57,Car,£E,25,20,3,,,,,
+NGC 3199,1017.1,-37,55,Car,E,22,22,vB,3,89358,11.1,WC,RCW,48.,A,partial,ring
+NGC 3247,10,24.8,-57,53,Car,£,6,2,RCW,49,,,
 
-7^
+Nebulae-6:
 
-8^
+RCW 50,"1ot26""4",-5709,car,E,12,12,3,,,,,,
+NGC 3293,10,34.0,-58,06,Car,EtR,40,B?,3,R-B,91969,"6,51",BOIb,Part,of,RCW,53
+NGC 3324,10,37.7,-58,40,Car,EHR,16,14,pB,2,R-B,92206,7.7,06,Part,of,RCW,53.,Includes,IC,2599
+NGC 3372,10,43.8,-59,52,Car,E,120,120,1k,93308,6.21v,n,Car,"nebula,",Contains,Keyhole,"neb,"
+Gum 32,10,46.3,-58,39,Car,E,7,2,10.0,RCW,52,,
+NGC 3503,1101.3,-59,51,Car,EHR,3,vF,2,MR,10.46,BOVe,,
+RCW 58,1106.3,-65,34,Car,E,7,7,3,96548,7.70,¥N8,Ring~shaped,
+NGC 3572,1109.9,-60,06,Car,E,20,3,97151?,7.74,B2Ve,RCW,54,
+"NGC 3576,79",1112.0,~-6112,Car,E,20,15,F2,Part,of,RCW,57,with,NGC,"3581-2,84,86"
+NGC 3603,1115.1,~-61,12,Car,E,12,«10,2,97950,9.2,¥NS+0,Part,of,RCW,57
+Gum 39,1128.9,-62,41,Cen,E,20,«10,3R,9989727,8.6,06,Part,of,RCW,60
+IC 2872,1129.0,-6257,Cen,E,12.0,(«4,4R,998987,9.3,BS:III:,Part,of,RCW,60
+Gum 41,11,30.4,-63,50,Cen,E+R,15,15,3,VR-B,100099,"8,08",O9III,RCW,61
+RCW 59,1137:,0-57:,Cen,E,180,150,3,c,,,,,
+"IC 2944,8",11,38.3,-63,22,Cen,E,715,50,2R,100841,3.13,B9III,RCW,"62,",[A,Cen]
+NGC 3882,11,46.1,-56,22,Cen,Rk?,vF,102277,9.0,A2:¥,,,
+IC 2966,1150.4,-64,54,Mus,R,3,21,11.47,BO.5V,,,,
+Ced 122,13,25.4:,-64,01:,Cen,E,150,150,1139047,5.51,BOIa,Large,nebula,f,Coalsack.,[@,Mus]
+NGC 5367,13,57.7,-39,59,Cen,R,4,3,vB,2,Double,"nucleus,",includes,IC,4347
+vdBH 63,14,49.4,-65,14,Cir,R,1,2B,130079,10.49,B9Vp?,Near,dark,nebula,Bernes,145
+vdBH 65a,15,01.1,-63,17,Cir,R,1R,13,.86v?,Cometary,,,
+$h2-1 15,58.9,-26,09,Sco,ER,90,10,4,VB,IrAF,143018,2.89,BIV+B2V,[x,Sco],Nebula,brightest,s,of,star
+Ic 4592,16,12.0:,-19,28:,Sco,R,150,60,3,R-MB,145501-2,4.00,B2IV-V,[v,Sco],Outer,region,is,red,due,to
+RCW 103,1617.1,-5107,Nor,E,53,2,SNR,[|,light,from,Antares!,,
+RCW 102,1617.8,~5155,Nor,E,12.,8,2,145492,9.3,B2Ib,,,
+
+
+Nebulae-7:
+
+IC 4601,16,20.0,-2002,Sco,R,20,10,3,VB,147009,8.08,B9.S5V,Several,components
+RCW 106,16,20.8,-50,55,Nor,E,35,20,3,,,,
+Sh2-9 16,21.1,-25,35,Sco,E+#R,60,50,3,VR-B,IrAF,147165,2.89v,B2III+09.5V,{o,Sco}
+RCW 104,16,24.0,-51,31,Nor,£E,20,«20,3,147419,=10.5,WN4,Ring-shaped
+IC 4604,16,25.6,-23,26,Oph,R,60,25,2,VB,147933-4,4.61,B2V+B2V,[p,Oph]
+IC 4603,16,25.6,-24,28,Oph,R,20,10,eF,3,MB,147889,7.89,B2V,Near,p,Oph
+vdB 107,16,29.2,-26,27,Sco,R,85,80,3,VR,148478-9,0.92,M1Ib+dB4,[Antares},Ced,"132,",but,not,IC,4606
+IC 4605,16,30.2,-25,06,Sco,R,30,30,eF,3,VB,148605,4.78,B2YV,[22,Sco}
+"NGC 6188,93",16,40.5,-48,47,Ara,E+R,20,12,F2,NGC,6193,RCW,108.,Near,a,dark,nebula
+NGC 6231,16,52.5:,-42,05:,Sco,E,240,4,151804,5.22,O8Ifp,RCW,113
+IC 4628,16,57.0,-40,20,Sco,E,90,60,F2,152723,7.31,06k,Near,cluster,Tr,24
+NGC 6281,17,02.8,-38,07,Sco,E,60,3,IrAF,153919,6.55,07,Gum,"57,",RCW,119
+vdBH 81,17,04.0,~-51,05,Ara,R,6,2,MB,153772,8.32,B2V,
+Sh2-3 1712.3,-38,29,Sco,E,12,2,EF,10,Gum,"58,",RCW,120,
+RCW 126,1716.9,-36,21,Sco,E,1606,4,3R,Ir,,,,
+Sh2-5 1718.6,-38,25,Seo,E,100,50,3,IrAF,157038,6.42,B4la,Gum,"59,",RCW,123
+vdB 111,1719.0,+605,Oph,R,12,3B,156697,6.49,FOn,,,,
+NGC 6334,17,20.5,-35,43,Seco,£E,40,30,pF,2R_,IrAF,156369,8.9,A2V,Gum,"61-64,",RCW,127
+NGC 6357,17,24.6,~-34,10,Sco,E,50,40,F2R,IrF,10,B,Gum,"66,",RCW,131
+"Sh2-13 17:29,1.",-31,33,Sco,E,40,3,E,AF,158186,7.00,BOV,Gum,"68,",RCW,133
+NGC 6383,17,34.7,-32,35,Sco,E,80,30,3R,CAF,159176,5.70,O6V+06V,Gum,"67,",RCW,132
+$h2~-16 17,46.6,~-29,18,Sgr,E,12,12,3,VR,IAF,Cr,347,Gum,70
+NGC 6514,18,02.6,~-23,02,Sgr,E+tR,29,27,vB,1,R-VB,IrF,164492,7.63,O5e,Trifid,nebula,M20
+NGC 6526,18,02.6,-23,35,Sgr,E,40,F3,C,AF,164971,7.3,BO,Gum,"74,",RCW,145
+NGC 6523,18,"03,8",-24,23,Ser,E,90,40,vB1R,IrF,NGC,6530,Lagoon,nebula,M8.,Faint,f,"ext,",IC,4678
+
+
+Nebulae-8:
+
+Sh2-46 1806.1,-1410,SerCd,E,30,20,3R,EAF,165319,7.94,BOIa,Gum,"80,",RCW,158
+IC 4684,18,09.1,-23,25,Sgr,R,302,3B,165872,9.3,BS,IC,4681,is,12,p
+IC 4685,18,"09,3",-23,59,Sgr,R,10,«8,3,165921,7.28,"07,5",With,S-shaped,dark,nebula,B303
+Ie 1274,18,09.5,~-23,44,Sgr,E,9,8,1R,CAF,166033,9.9,BS,Adjacent,to,dark,nebula,B91
+Ic 1275,18,10.0,-23,50,Sgr,E,10,6,1R,CA,_,166107,7.96,B5V,Adjacent,to,dark,nebula,B91
+NGC 6559,18,10.0,-24,06,Sgr,E,8,65,vF,1,RR,IxsAF,9.8,BL,Gum,"75,",RCW,146
+Sh2-35 18,15.9,-2015,Sgr,E,10,7,4R,IrA,167264,5.38,BOla,Gum,"77b,",RCW,151
+NGC 6589,18,16.3,~19,48,Sgr,R,5,4,eF,1,MB,167638,9.4,BS
+IC 4701,1816.5,-16,44,Sgr,E,60,40,4R,IAF,NGC,6596,Gum,"79,",RCW,"157,",with,IC,4715,f
+"NGC 6590,95",1817.0,-19,53,Sgr,R,4,2,pF,1,MB,10.2,BE,Same,as,IC,4700
+Ic 1283-4,1817.8,-19,40,Sgr,E+R,17,15,2R,IrAF,167815,7.56,B2,Gum,"78,",RCW,153
+NGC 6604,18,17.9,-11,44,SerCd,E,60,30,1R,IrF,NGC,6604,Gum,"84-85,",RCW,167
+NGC 6611,18,18.8,-13,47,SerCd,E,35,28,1R,IrF,NGC,6611,Eagle,nebula,and,cluster,M16.,(IC,4703
+Ic 4715,1819.9,-17,59,Sgr,E,30.5,2,VR,Star,cloud,|,refers,to,nebula,only.)
+NGC 6618,18,20.8,-16,11,Sgr,E,46,37,B1R,IsF,NGC,6618,Omega,nebula,M17.,IC,4706-7,10,n
+$h2-53 18,25.2,-13,13,Sct,E,15,3,IrAF,,,,,
+vdB 123,18,30.5,+111,SerCdR,1005,3,MB,170634,9.1,AO,,,
+Ic 1287,18,31.3,-10,50,Sct,R,4434,3,VB,170740,5.5,B2V,
+Sh2-64 18,31.6,-155,SerCd,E,20,«8,2R,IraF,,,,,
+Sh2-55 18,32.2,-11,46,Set,E,20,20,6B,IrAF,,,,
+NGC 6726-7,1901.7,-36,53,CrA,R,2,2,F,176386,7.20,AOV,"Double,",near,dark,nebula,Bernes,157
+NGC 6729,1901.9,-36,57,CrA,EHR,1,R,Cra,9.7,v,FS5pe,"Cometary,",with,varying,size
+Sh2-72 19,03.8,+219,Agi,E,25,5,irAF,,,,,,
+I€ 4812,19,05.2,-3703,CrA,R?,176269,6.69,BSV,,,,,
+vdB 126,19,27.1,+22,43,Vul,R,7,5,2,VB,182918,8.3,A2
+
+Nebulae-9:
 
 
 Sh2-82 193073,+1816,Sge,ER,7,7,3,IrA,231616,10.7,BO,,,
@@ -148,10 +283,42 @@ NGC 6914b,20,24.8,+42,23,Cyg,R,4,4,1,VB,8.7,B6,
 IC 1318,20,26.2,+40,30,Cyg,E,50,30,1R,IrAF,194093,2.20,F8Ib,With,cl.,NGC,6910,)
 Ic 1318,20,27.9,+40,00,Cyg,E,45,20,1R,IrAF,194093,2.20,F&Ib
 
-9^
+Nebulae-10:
 
-10^
+vdB 133,20,30.7,+36,56,Cyg,R,10,10,2,MB,195593,6.19,FSiab,{44,Cyg]
+S$h2-112 20,33.9,+45,39,Cyg,£E,9,7,2R,CAF,8.8,,,
+Sh2-115 20,34.5,+46,52,Cyg,£E,30,«20,3R,IrAF,,,,
+NGC 6960,20,45.7,+30,43,Cyg,E,10,#6,pB,2,R-B,IrF,Filamentary,neb.,at,52,Cyg,)
+20 48.5,+31,09,Cyg,E,45,30,3,R-B,IrF,Pickerings,triangular,wisp,
+IC $068,",",20,50.8,+42,31,Cyg,E,80,30,vF2R,,,
+IC 5070,20,50.8,+44,22,Cyg,EB,80,70,F3R,Pelican,neb.,with,IC,5067
+IC 5076,20,55.9,+47,25,Cyg,R,9,6,vF,1,VB,199478,§.69,B8la
+Ic 1340,20,56.2,+3104,Cyg,£E,25,20,3,R-B,IrF,Veil,neb-,
+NEC 6992,20,56.4,+3143,Cyg,£E,60,8,eF,2,R-B,IrF,Network,nebula,ula,(SNR)
+NGC 6995,20,57.1,+31,13,Cyg,—E,12,F,2,BB,IrF,,
+NGC 7000,20,58.8:,+44,20:,Cyg,E,120,100,F1R,IrAF,1995797,5.96,O6V,North,America,nebula
+NGC 7023,21,:01.8,+68,12,Cep,R,18,18,eF,1B,IrAF,200775,6.8,BSe,One,of,the,brightest,refl.,nebulae
+Sn2-129 21:11.8,+5957,Cep,E,100,65,5,R,IrAF,202214,5.64,BOIT,Cep,OB1
+vdB 140,2117.5,+5836,Cep,Rk,16,13,3,VB,203025,6.41,B2IIIe,,
+NGC 7076,21,26.3,+62,53,Cep,£E,2,vF,c,Planetary?,,,
+vdB 142,2137.1,+5729,Cep,Fk,1,3B,239710,8.8,B3,Near,elephant-trunk,shape,in,IC,1396
+vdB 143,21,37.1,+6812,Cep,R,8,8,2,VB,206135,8.3,Ad,
+IC 1396,2139.1:,+57,30:,Cep,E,170,140,4R,CAF,IC,1396,Cep,0B2
+vdB 145,21,43.7,+48,55,Cyg,R,9,3,MB?,206887,7.4,F2,
+"NGC 7129,33",21,44.4,+6610,Cep,R,8,sf,PF,1B,NGC,7129,,
+IC 5146,2153.5,+4716,Cyg,E,12,12,pBit,€E,AF,10.0,BL,Cocoon,"nebuta,",with,a,sparse,cluster
+Ced 199,2211.6,+58,45,Cep,E,13,5,3R,210839,5.04,O6If,€X,Cep]
+vdB 152,2213.6,+7018,Cep,&,12,6,1B,8.8,B9.5V,.,,,
+$h2-132 2218.7,+56,08,Cep,£E,300,20,2R,IF,211853,9.0,Ob,Cep,OB1
 
-11^
 
+Nebulae-11:
 
+NGC 7380,22,47.6,+58,04,Cep,E,25,30,1R,IF,NGC,7380,Cep,OBL
+S$h2-155 22,356.8,+6237,Cep,E,50,30,2R,Irak,217086,7.65,05,Cave,"nebulae,",Cep,OB3
+Ic 1470,23,05.2,+6015,Cep,E,15),1,vF,2,C,AF,Planetary?,
+NGC 7538,2313.5,+6131,Cep,£E,lo),65,wF,1R_,E,AR,,,
+Sh2-157 2316.1,+6002,Cas,£E,60,50,3,I,UrF,219287,8.91,Bole,3,core,is,Sh2-157;,rest,Lynds,Group,11
+NGC 7635,23,20.7,+6112,Cas,£E,15,8,vF,LR,IrF,220057,6.93,B2IV,Bubble,nebula
+Ced 211,23,43.8,-15,17,Aqr,E,2,1,IrF,222800,6.36v,M7IIIpey+B2,(R,"Agr,",symbiotic,star]
+vdB 150,23,55.1,+76,37,Cep,11,3,VB,210806,8.4,AO,,
