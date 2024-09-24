@@ -1,32 +1,34 @@
 Name,RA,Dec,Const,Type,DimMax,DimMin,Vis,Brightness,Color,Shape,Structure,HD,*Mag,*Spec,Notes
 
-Nebulae-0:
+NGC 7822,0 03.6,+68 37,Cep,E,60,30,eeF,3,R, , , , , ,Arc of nebulosity n of Ced 214
+Ced 214,0 04.7,+67 10,Cep,E+R,50,40, ,2,R,Ir,AF,225216?,5.67,gK1,"Surrounded by faint nebulousarcs; this is often confused with NGC 7822"
+vdB 1,0 11.0,+58 46,Cas,R,9, , ,2,VB, , ,627,8.6,A
+NGC 281,0 52.8,+56 36,Cas,E,35,30,F,1,R,Ir,AF,5005,7.76,06
+Ic 59,0 56.7,+61 04,Cas,E+R,10,5,pF,2,B, , ,5394,2.47v,BOIVe,"[y Cas]"
 
-NGC 7822,0036,+6837,Cep,E,60,30,eeF,3,R, , , , , ,Arc of nebulosity n of Ced 214
-Ced 214,0,04.7,+6710,Cep,E+R,50,40,2R,IrAF,225216?,5.67,gK1,Surrounded,by,faint,nebulous,arcs;,this
-vdB 1,011.0,+58,46,Cas,R,9,2,VB,627,8.6,A,|,is,often,confused,with,NGC,7822
-NGC 281,0,52.8,+56,36,Cas,E,35,30,F1iR_,IraF,5005,7.76,06
-Ic 59,0,56.7,+6104,Cas,E+R,10,5,pF,2B,5394,2.47v,BOIVe,[y,Cas]
-NGC 346,0759.1,"4-72,115)","Tuc,",E,14,11,B,IrAF,Largest,diffuse,nebula,in,SMC
-IC 63,0,59.5,+6049,Cas,E+R,10,3,pF,it,5394,2.47v,BOIVe,[y,Cas]
-NGC 456,114.4,-73:17.,Tuc,E,Sie,tS:,pF,Ir,Several,bright,knots,in,SMC
-$h2-188 1,30.6,+58,22,Cas,E,10,33,JOR,LSE:,Crescent-shaped,,,
-NGC 896,2,24.8,+6154,Cas,E,eo,aK),eF1R,10.5,Nebulous,"complex,",IC,1795,12,nf
-Ic 1805,2,33.4,+6126,Cas,E,60,60,3R,IrF,IC,1805,,
-IC 1848,2,51.3,+6025,Cas,E,60,30,F2R_,IrAF,IC,1848,,
-vdB 8,2,51.6,+67,52,Cas,R,6,1B,17443,8.5,AO,,
-Ic 1871,3,03.2,+6029,Cas,E,444,4R,IrAF,10,K3,,,
-vdB 16,3,28.3,+29,43,Ari,R,LS,3,MB,9.,T,EAS,
-vdB 14,3,29.2,+5957,Cam,R,46,4B,21291,4.23,B9Ia,,,
-NGC 1333,3.29.3,9,+3125,Per,2,9,7,F3B,9.5,B8p,Near,dark,nebula,B205
-vdB 15,3,30.1,+58,54,Cam,R,54,3B,21389,4.58,AOIa,,
-IC 348,3,44.6,+32,09,Per,R,10,10,pB,2B,281159,8.53,BSV,Near,dark,nebula,B4
-Ced 19¢,344.8,+2417,Tau,R,16,16,3,VB,23288,5.46,BT7IV,[Celaeno],
-vdB 20,3.44.9,+2407,Tau,R,20,16,3,VB,23302,3.70,B6III,[Electra],
-Ced 19e,3.45.2,+2428,Tau,R,2ige2t,3,VB,23338,4.30,B6IV,[Taygeta],Pleiades,
-NGC 1432,3.45.8,+2422,Tau,R,30,30,eF,2,VB,23408,3.88,B7III,[Maia],nebulosity
-Ced 19h,3.45.9,+24,33,Tau,R,15.15,3,VB,23432,5.76,B8V,[Sterope],
-NGC 1435,SAG),e+2304745,Tau.,7,R,30,30,vF,2,VB,23480,4.18,B6IVon,[Merope],Tempels,nebula
+NGC 346,0 59.1,-72 11,Tuc,E,14,11,B, , ,Ir,AF, , , ,"Largest diffuse nebula in SMC"
+IC 63,0 59.5,+60 49,Cas,E+R,10,3,pF,1,I, , ,5394,2.47v,BOIVe,"[y Cas]"
+NGC 456,1 14.4,-73 17,Tuc,E,15,15,pF, , ,Ir,  , , , ,"Several bright knots in SMC"
+Sh2-188,1 30.6,+58 22,Cas,E,10,3, ,1,R, , , , , ,"Crescent-shaped"
+NGC 896,2 24.8,+61 54,Cas,E,27,13,eF,1,R, , , ,10.5, ,"Nebulous complex, IC 1795 12' nf"
+
+IC 1805,2 33.4,+61 26,Cas,E,60,60, ,3,R,Ir,F,IC 1805, , , ,
+IC 1848,2 51.3,+60 25,Cas,E,60,30,F,2,R,Ir,AF,IC 1848, , , ,
+vdB 8,2 51.6,+67 52,Cas,R,6, , ,1,B, , ,17443,8.5,AO, ,
+IC 1871,3 03.2,+60 29,Cas,E,4,4, ,4,R,Ir,AF, ,10,K3, ,
+vdB 16,3 28.3,+29 43,Ari,R,11,5, ,3,MB, , , ,9.1,A5, ,
+
+vdB 14,3 29.2,+59 57,Cam,R,46, , ,4,B, , ,21291,4.23,B9Ia, ,
+NGC 1333,3 29.3,+31 25,Per,R,9,7,F,3,B, , , ,9.5,B8p,"Near dark nebula B205"
+vdB 15,3 30.1,+58 54,Cam,R,54, , ,3,B, , ,21389,4.58,AOIa, ,
+IC 348,3 44.6,+32 09,Per,R,10,10,pB,2,B, , ,281159,8.53,B5V,"Near dark nebula B4"
+Ced 19c,3 44.8,+24 17,Tau,R,16,16, ,3,VB, , ,23288,5.46,B7IV,"[Celaeno]"
+
+vdB 20,3 44.9,+24 07,Tau,R,20,16, ,3,VB, , ,23302,3.70,B6III,"[Electra]"
+Ced 19e,3 45.2,+24 28,Tau,R,21,21, ,3,VB, , ,23338,4.30,B6IV,"[Taygeta]"
+NGC 1432,3 45.8,+24 22,Tau,R,30,30,eF,2,VB, , ,23408,3.88,B7III,"[Maia]"
+Ced 19h,3 45.9,+24 33,Tau,R,15,15, ,3,VB, , ,23432,5.76,B8V,"[Sterope]"
+NGC 1435,3 46.1,+23 47,Tau,R,30,30,vF,2,VB, , ,23480,4.18,B6IVnn,"[Merope] Tempel's nebula"
 
 Nebulae-1:
 
