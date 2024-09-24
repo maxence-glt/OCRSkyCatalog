@@ -1,29 +1,24 @@
 Name,RA,Dec,Const,Type,DimMax,DimMin,Vis,Brightness,Color,Shape,Structure,HD,*Mag,*Spec,Notes
-
 NGC 7822,0 03.6,+68 37,Cep,E,60,30,eeF,3,R, , , , , ,Arc of nebulosity n of Ced 214
 Ced 214,0 04.7,+67 10,Cep,E+R,50,40, ,2,R,Ir,AF,225216?,5.67,gK1,"Surrounded by faint nebulousarcs; this is often confused with NGC 7822"
 vdB 1,0 11.0,+58 46,Cas,R,9, , ,2,VB, , ,627,8.6,A
 NGC 281,0 52.8,+56 36,Cas,E,35,30,F,1,R,Ir,AF,5005,7.76,06
 Ic 59,0 56.7,+61 04,Cas,E+R,10,5,pF,2,B, , ,5394,2.47v,BOIVe,"[y Cas]"
-
 NGC 346,0 59.1,-72 11,Tuc,E,14,11,B, , ,Ir,AF, , , ,"Largest diffuse nebula in SMC"
 IC 63,0 59.5,+60 49,Cas,E+R,10,3,pF,1,I, , ,5394,2.47v,BOIVe,"[y Cas]"
 NGC 456,1 14.4,-73 17,Tuc,E,15,15,pF, , ,Ir,  , , , ,"Several bright knots in SMC"
 Sh2-188,1 30.6,+58 22,Cas,E,10,3, ,1,R, , , , , ,"Crescent-shaped"
 NGC 896,2 24.8,+61 54,Cas,E,27,13,eF,1,R, , , ,10.5, ,"Nebulous complex, IC 1795 12' nf"
-
 IC 1805,2 33.4,+61 26,Cas,E,60,60, ,3,R,Ir,F,IC 1805, , , ,
 IC 1848,2 51.3,+60 25,Cas,E,60,30,F,2,R,Ir,AF,IC 1848, , , ,
 vdB 8,2 51.6,+67 52,Cas,R,6, , ,1,B, , ,17443,8.5,AO, ,
 IC 1871,3 03.2,+60 29,Cas,E,4,4, ,4,R,Ir,AF, ,10,K3, ,
 vdB 16,3 28.3,+29 43,Ari,R,11,5, ,3,MB, , , ,9.1,A5, ,
-
 vdB 14,3 29.2,+59 57,Cam,R,46, , ,4,B, , ,21291,4.23,B9Ia, ,
 NGC 1333,3 29.3,+31 25,Per,R,9,7,F,3,B, , , ,9.5,B8p,"Near dark nebula B205"
 vdB 15,3 30.1,+58 54,Cam,R,54, , ,3,B, , ,21389,4.58,AOIa, ,
 IC 348,3 44.6,+32 09,Per,R,10,10,pB,2,B, , ,281159,8.53,B5V,"Near dark nebula B4"
 Ced 19c,3 44.8,+24 17,Tau,R,16,16, ,3,VB, , ,23288,5.46,B7IV,"[Celaeno]"
-
 vdB 20,3 44.9,+24 07,Tau,R,20,16, ,3,VB, , ,23302,3.70,B6III,"[Electra]"
 Ced 19e,3 45.2,+24 28,Tau,R,21,21, ,3,VB, , ,23338,4.30,B6IV,"[Taygeta]"
 NGC 1432,3 45.8,+24 22,Tau,R,30,30,eF,2,VB, , ,23408,3.88,B7III,"[Maia]"
@@ -32,31 +27,31 @@ NGC 1435,3 46.1,+23 47,Tau,R,30,30,vF,2,VB, , ,23480,4.18,B6IVnn,"[Merope] Tempe
 
 Nebulae-1:
 
-Ic 349,3,46.3,+23,56,Tau,eF,Very,"small,",36”,sf,Merope,,
-vdB 23,3.47.5,+2406,Tau,R,27,(27,3,VB,23630,2.87,B7III,[Alcyone],
-Led 190,3.49.2,+24,03,Tau,R,ak,abt,3,VB,23850,3.63,B8III,[Atlas]
-Ced 19p,3.49.2,+2408,Tau,R,10,10,3,VB,23862,5.09,B8Vpe,[Pleione],
-vdB 24,3149.6,-+38.59)—,"Per,",RB,9,3,MB,275877,8.8,v,A2II+B6,(XY,Per]
-IC 353,3,55.0:,+25,29:,Tau,R?,180,30,vF,3,B,24368,6.36,AO
-Sh2-205 3,56.1,+53,12,Cam,E,100,80,5,R,IrAF,24431,6.73,O9IV-V,Cam,OB1
-NGC 1499,4,00.7:,+36,37:,Per,E,145,40,vF,1R,IrAF,24912,4.04,O7e,California,nebula.,[&,"Per,",Per,OB2]
-NGC 1491,Al0S.49,+5119.,Per.),EB,Be,oe),vB1R_,IrAF,11,BO,Has,a,fainter,extended,envelope
-IC 360,413.0:,+25,38:,Tau,E,180,100,wF,4R,,,,
-vdB 26,413.6,+1013,Tau,R,nA,3,VB,26676,71.2,B8,,,
-IC 359,419.0,+2812,Tau,R,See,10:,eeF,5,I,12,K8,,
-NGC 1554-5,421.8,+19,32,Tau,R,Var,vF,3,R,IrAF,284419,9.4,v,dGSe,Hinds,variable,nebula.,[T,Tau]
-Ced 33,427.1,+2606,Tau,R,See,4R,DG,Tau,10,v,,,
-Ced 34,4,27.2,+22,57,Tau,R,10,6,2B,28149,525378,BIN),
-NGC 1579,4,30.2:,+35.16:)),Per,RF,"12S,",pB,4B,IrAF,12,Dark,lanes,
-IC 2087,440.0,+25,44,Tau,R,4,4,eeF,3R,In,dark,nebula,B22
-NGC 1624,440.5,+5027,Per,E,5,5),F2R,CAF,NGC,1624,,,
-vdB 29,448.4,+2947,Tau,R,14,4B,30378,6.5,BI,,,,
-vdB 31,455.7,+30,33,Aur,R,2),3B,31293,6.8,v,AOpe,(AB,Aur]
-NGC 1763,456.8,-66,24,Dor,E,25020.,vB,IrF,Has,a,bright,"nucleus,",In,LMC
-NGC 1788,5.06.9,-3,21,Ori,R,SS:,B,1,VB,293815,10.12,B9V,
-Ic 2118,5,06.9:,-7,13:,Eri,R,180,60,F3B,34085,0.12,B8Iae:,[Rigel]
-Ic 405,5.16.2,+3416,Aur,R,20,2,34078,5.96v,09.5Ve:,Reflection,part,of,IC,"405,",sf,AE,Aur
-IC 405,5,16.2,+3416,Aur,E,30719),pB2R,IrAF,34078,5.96v,09.5Ve:,Flaming,Star,nebula.,[AE,Aur]
+Ic 349,3 46.3,+23 56,Tau, , , ,eF, , , , , , , ,"Very small, 36” sf Merope"
+vdB 23,3 47.5,+24 06,Tau,R,27,27, ,3,VB, , ,23630,2.87,B7III,"[Alcyone]"
+Ced 19o,3 49.2,+24 03,Tau,R,11,11, ,3,VB, , ,23850,3.63,B8III,"[Atlas]"
+Ced 19p,3 49.2,+24 08,Tau,R,10,10, ,3,VB, , ,23862,5.09,B8Vpe,"[Pleione]"
+vdB 24,3 49.6,+38 59,Per,RB,9, , ,3,MB, , ,275877,8.8 v,A2II+B6,"[XY Per]"
+IC 353,3 55.0:,+25 29:,Tau,R?,180,30,vF,3,B, , ,24368,6.36,AO, ,
+Sh2-205,3 56.1,+53 12,Cam,E,100,80, ,5,R,Ir,AF,24431,6.73,O9IV-V,"Cam OB1"
+NGC 1499,4 00.7:,+36 37:,Per,E,145,40,vF,1,R,Ir,AF,24912,4.04,O7e,"California nebula. [Per, Per OB2]"
+NGC 1491,4 13.0,+51 19,Per,E,3,3,vB,1,R,Ir,AF, ,11,BO,"Has a fainter extended envelope"
+IC 360,4 13.0:,+25 38:,Tau,E,180,100,vF,4,R, , , , , , ,
+vdB 26,4 13.6,+10 13,Tau,R,11, , ,3,VB, , ,26676,7.2,B8, ,
+IC 359,4 19.0,+28 12,Tau,R,15,10,eeF,5,I, , , ,12,K8, ,
+NGC 1554-5,4 21.8,+19 32,Tau,R,Var, ,vF,3,R,Ir,AF,284419,9.4 v,dG5e,"Hinds variable nebula. [T Tau]"
+Ced 33,4 27.1,+26 06,Tau,R,5,2 ,,4,R, , ,DG Tau,10 v, , ,
+Ced 34,4 27.2,+22 57,Tau,R,10,6, ,2,B, , ,28149,5.53, B7V, ,
+NGC 1579,4 30.2,+35 16,Per,R,12,8,pB,4,B,Ir,AF, ,12, ,"Dark lanes"
+IC 2087,4 40.0,+25 44,Tau,R,4,4,eeF,3,R, , , , , ,"In dark nebula B22"
+NGC 1624,4 40.5,+50 27,Per,E,5,5,F,2,R,C,AF,NGC 1624, , , ,
+vdB 29,4 48.4,+29 47,Tau,R,14, , ,4,B, , ,30378,6.5,B9, ,
+vdB 31,4 55.7,+30 33,Aur,R,9, , ,3,B, , ,31293,6.8 v,AOpe,"[AB Aur]"
+NGC 1763,4 56.8,-66 24,Dor,E,25,20,vB, , ,Ir,F, , , ,"Has a bright nucleus. In LMC"
+NGC 1788,5 06.9,-3 21,Ori,R,8,5,B,1,VB, , ,293815,10.12,B9V, ,
+IC 2118,5 06.9:,-7 13:,Eri,R,180,60,F,3,B, , ,34085,0.12,B8Iae:,"[Rigel]"
+IC 405,5 16.2,+34 16,Aur,R,20, , ,2, , , ,34078,5.96v,09.5Ve:,"Reflection part of IC, sf AE Aur"
+IC 405,5 16.2,+34 16,Aur,E,30,19,pB,2,R,Ir,AF,34078,5.96v,09.5Ve:,"Flaming Star nebula. [AE,Aur]"
 
 Nebulae-2:
 
