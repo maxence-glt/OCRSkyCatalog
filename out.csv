@@ -74,34 +74,31 @@ NGC 1982,5 35.6,-5 16,Ori,E+R,20,15,vB,1,R, , ,37061,6.85,B1V,"M43"
 Sh2-264,5 35:,+10:,Ori,E,270,240, ,4,R,C,A,36861-2,3.39,O8e+BO.5V,"[Ori]"
 NGC 1990,5 36.2,-1 12,Ori,E+R,50,50, ,3,B, , ,37128,1.70,BOIae,"[Ori]"
 NGC 1999,5 36.5,-6 42,Ori,E+R,16,12, ,1,I?, , , ,9.3,B8,"With IC 427-8 nf. [V380 Ori]"
-
-Nebulae-3:
-
-IC 426,s36™g,-015,Ori,R,5,45a,VE,2B,37140,8.54,BO,Fan-shaped,
-IC 430,5,38.5,=-705,Ori,®,it,it,2,37507,4.80,A4V,Fan-shaped.,[49,Ori]
-NGC 2070,5,38.7,-6906,Dor,E,40,25,vB,1,VR,IrAF,30Dor,nebula,(Tarantula),in,LMC
-$h2-240 5,"39,1:",+28,00:,Tau,E,200,180,4,EF,SNR,Simeis,147.,Position,of,the,center
-vdB 49,589.2,+4,10¥80ri,oR,6,2,VB,37490,4.50,B3IIIe,[w,Ori],|,is,given
-$h2-231 539.4,+3556,Aur,E,1OCreS,4R,IrA,,,,,,,
-"NGC 2074,81",5,39.6,-69,27,Dor,E,16,10,pB,IrAF,Part,of,30,Dor,nebula,in,LMC
-IC 431,S:4058,Sh,ts2T,ec,Orkt,RB:,5:,is,2,VB,37674,7.67,BSn
-NGC 2077-80,5,40.4,-69,38,Dor,E,DEN,ose,B,IrAF,In,"LMC,",sf,30,Dor.,NGC,2083-4,near
-NGC 2024,540.7,-227,Ori,£E,30,30,B2R,IrAF,37742,2.05,09.5Ibe,[¢,Ori]
-IC 432,5540.9,51029),Ori,8,4,1B,37776,6.98,B2v,,,,
-IC 434,$41.0,-224,Ori,E,60,10,1R,37742,2.05,09.5Ibe,Behind,the,Horsehead,neb.,[€,Ori]
-Sh2-235 5,41.1,+3552,Aur,E,10,2,IrAF,,,,,,
-$4155) 9,1—3709),Orie,50,6,2,VR,An,extension,of,IC,434,southward,
-NGC 2023,5,41.6,-214,Ori,E+tR,10,10,1B,37903,7.82,B1.5V,,
-Ic 435,514320),90-219,(eOrse,oR:,sa,3),1,VB,38087,8.30,B3n,,
-5 43.2,-67,54,Dor,E,Ps,CF,Faint,"ring,",in,LMC,,,
-Ced 59,5,45.3,+9,04,Ori,E+R,3,2,28,FU,Ori,12,v,F2p,Size,"varies,",In,dark,nebula,B35
-NGC 2064,5,46.3,000,Ori,R,12.,2,eF,21,,,,
-NGC 2067,546.5,+006,Ori,R,8,3,F21,38563,10.49,BS,,,
-NGC 2068,$946.57,4003.),(Ori?,8,6,BivD,38563,10.49,BS,M78,,,
-NGC 2071,547.2,+018,Ori,R,at,3;,wF,21,290861,9.5,F8,,
-$h2-276 5,48:,+1:,Ori,E,600,30,3R,37742,2.05,09.5Ibe,Barnards,"Loop,",f,part.,[¢€,Ori?]
-5 56:,-6:,Ori,E,600,20,3,VR,Southern,extension,of,Barnards,Loop,
-NGC 2149,603.5,-9,44,Mon,R,3,2,F2B,9.3,,,,
+IC 426,5 36.8,-0 15,Ori,R,5,5,vF,2,B, , ,37140,8.54,B9,"Fan-shaped"
+IC 430,5 38.5,-7 05,Ori,R,11,11, ,2, , , ,37507,4.80,A4V,"Fan-shaped. [49 Ori]"
+NGC 2070,5 38.7,-69 06,Dor,E,40,25,vB,1,VR,Ir,AF, , , ,"30Dor nebula (Tarantula) in LMC"
+Sh2-240, 5 39.1:,+28 00:,Tau,E,200,180, ,4, ,E,F, , , ,"SNR Simeis 147. Position of the center is given"
+vdB 49,5 39.2,+4 10,Ori,R,6, , ,2,VB, , ,37490,4.50,B3IIIe,"[Ori]"
+Sh2-231,5 39.4,+35 56,Aur,E,1O,5, ,4,R,Ir,A, , , , ,
+"NGC 2074,81",5 39.6,-69 27,Dor,E,16,10,pB, , ,Ir,AF, , , ,"Part of 30 Dor nebula in LMC"
+IC 431,5 40.3,-1 27,Ori,R,5,3, ,2,VB, , ,37674,7.67,B5n, ,
+NGC 2077-80,5 40.4,-69 38,Dor,E,15,11,B, , ,Ir,AF, , , ,"In LMC, sf 30 Dor. NGC 2083-4 near"
+NGC 2024,5 40.7,-2 27,Ori,E,30,30,B,2,R,Ir,AF,37742,2.05,09.5Ibe,"[Ori]"
+IC 432,5 40.9,-1 29,Ori,R,8,4, ,1,B, , ,37776,6.98,B2v, ,
+IC 434,5 41.0,-2 24,Ori,E,60,10, ,1,R, , ,37742,2.05,09.5Ibe,"Behind the Horsehead neb. [Ori]"
+Sh2-235,5 41.1,+35 52,Aur,E,10, , ,2, ,Ir,AF, , , , ,
+ ,5 41.5,-3 09,Ori,E,50,6, ,2,VR, , , , , ,"An extension of IC 434 southward"
+NGC 2023,5 41.6,-2 14,Ori,E+R,10,10, ,1,B, , ,37903,7.82,B1.5V, ,
+Ic 435,5 43.0,-2 19,Ori,R,5,3, ,1,VB, , ,38087,8.30,B3n, ,
+ ,5 43.2,-67 54,Dor,E,7, , , , ,C,F, , , ,"Faint ring in LMC"
+Ced 59,5 45.3,+9 04,Ori,E+R,3,2, ,2,R, , ,FU Ori,12 v,F2p,"Size varies In dark nebula B35"
+NGC 2064,5 46.3,0 00,Ori,R,12,2,eF,2,I, , , , , , ,
+NGC 2067,5 46.5,+0 06,Ori,R,8,3,F,2,I, , ,38563,10.49,B5, ,
+NGC 2068,5 46.7,+0 03,Ori,R,8,6,B,1,I, , ,38563,10.49,B5,"M78"
+NGC 2071,5 47.2,+0 18,Ori,R,4,3,vF,2,I, , ,290861,9.5,F8, ,
+Sh2-276,5 48:,+1: ,Ori,E,600,30, ,3,R, , ,37742,2.05,09.5Ibe,"Barnards Loop, f part. [Ori?]"
+ ,5 56:,-6: ,Ori,E,600,20, ,3,VR, , , , , ,"Southern extension of Barnards ,Loop"
+NGC 2149,6 03.5,-9 44,Mon,R,3,2,F,2,B, , , ,9.3, , ,
 
 Nebulae-4:
 
