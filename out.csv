@@ -24,9 +24,6 @@ Ced 19e,3 45.2,+24 28,Tau,R,21,21, ,3,VB, , ,23338,4.30,B6IV,"[Taygeta]"
 NGC 1432,3 45.8,+24 22,Tau,R,30,30,eF,2,VB, , ,23408,3.88,B7III,"[Maia]"
 Ced 19h,3 45.9,+24 33,Tau,R,15,15, ,3,VB, , ,23432,5.76,B8V,"[Sterope]"
 NGC 1435,3 46.1,+23 47,Tau,R,30,30,vF,2,VB, , ,23480,4.18,B6IVnn,"[Merope] Tempel's nebula"
-
-Nebulae-1:
-
 Ic 349,3 46.3,+23 56,Tau, , , ,eF, , , , , , , ,"Very small, 36” sf Merope"
 vdB 23,3 47.5,+24 06,Tau,R,27,27, ,3,VB, , ,23630,2.87,B7III,"[Alcyone]"
 Ced 19o,3 49.2,+24 03,Tau,R,11,11, ,3,VB, , ,23850,3.63,B8III,"[Atlas]"
@@ -52,34 +49,31 @@ NGC 1788,5 06.9,-3 21,Ori,R,8,5,B,1,VB, , ,293815,10.12,B9V, ,
 IC 2118,5 06.9:,-7 13:,Eri,R,180,60,F,3,B, , ,34085,0.12,B8Iae:,"[Rigel]"
 IC 405,5 16.2,+34 16,Aur,R,20, , ,2, , , ,34078,5.96v,09.5Ve:,"Reflection part of IC, sf AE Aur"
 IC 405,5 16.2,+34 16,Aur,E,30,19,pB,2,R,Ir,AF,34078,5.96v,09.5Ve:,"Flaming Star nebula. [AE,Aur]"
-
-Nebulae-2:
-
-$h2-223 517.2,+4212,Aur,E,70,10,4,VR,IrAF,SNR,,,,
-vdB 37,5,18.2,+13,24,Ori,R,15,3,VR,34454,8.2,gM5,
-Sh2-276 5,20:,A.,Ori,E,400,40,3R,AF,‘,Barnards,"Loop,",p,part.,[¢,Ori?]
-vdB 38,$21.75,"+8)27,","0,","0rd,",R,39,30,By,34989,5.77,B1V,,
-"NGC 1929,34-6",5,22.0,-67,58,Dor,E,20,15,pF,IrAF,OB,"assoc,",+,neb.,in,"LMC,",with,IC,2126-7
-Ic 410,5,22.6,+33,31,Aur,E,40,30,2,R,IrAF,NGC,1893
-5 26.8,-67,30,Dor,E,20,20,IrAF,Several,knots,and,cl.,NGC,1955,in,LMC
-NGC 1966,5,26.8,-68,49,Dor,E,13,12,pB,IrAF,In,LMC,
-Sh2-224 5,27.3,+4259,Aur,E,2053,5,VR,IrF,SNR,,,,
-IC 417,5,28.1,+3426,Aur,E,13010,2R,IrAF,St,8,,,
+Sh2-223, 5 17.2,+42 12,Aur,E,70,10, ,4,VR,Ir,AF, , , ,"SNR"
+vdB 37,5 18.2,+13 24,Ori,R,15, , ,3,VR, , ,34454,8.2,gM5, ,
+Sh2-276, 5 20:,-4:,Ori,E,400,40, ,3,R, ,AF, , , ,"Barnards Loop, p part. [Ori?]"
+vdB 38,5 21.75,+8 27,Ori,R,39,30, ,3,I, , ,34989,5.77,B1V, ,
+"NGC 1929,34-6",5 22.0,-67 58,Dor,E,20,15,pF, , ,Ir,AF, , , ,"OB assoc. + neb. in LMC, with IC 2126-7"
+Ic 410,5 22.6,+33 31,Aur,E,40,30, ,2,R,Ir,AF,NGC 1893, , , ,
+ ,5 26.8,-67 30,Dor,E,20,20, , , ,Ir,AF, , , ,"Several knots and cl. NGC 1955 in LMC"
+NGC 1966,5 26.8,-68 49,Dor,E,13,12,pB, , ,Ir,AF, , , ,"In LMC"
+Sh2-224, 5 27.3,+42 59,Aur,E,20,3, ,5,VR,Ir,F, , , ,"SNR"
+IC 417,5 28.1,+34 26,Aur,E,13,10, ,2,R,Ir,AF,St 8, , , ,
 NGC 2018,5,30.6,-71,04,Men,E,25,18,pB,IrF,Contains,"SNR,",in,LMC
 NGC 1931,5,31.4,+3415,Aur,EHR,3,3,vB1R,IrAF,NGC,1931,,
 IC 423,ERIE,eh),Ori,R,Om,4,vF,2,B,Annular.,A,planetary?,
 5 33.4,-67,38,Dor,E,30,20,IrAF,"Knots,","filaments,",cl.,NGC,2014,in,LMC
 NGC 1952,5,34.5,+22,01,Tau,E,6,4,vB,1,EF,16,v,Crab,nebula,"M1,",SNR.,[PSR,0531+21]
-NGC 1973,SisS.tey,—4544n,0rd),EtR,75,5,1B,36958,7.36,B3V,,,
-NGC 2048,5,35.2,-69,46,Dor,E,18,12,vF,IrAF,Lies,sp,30,"Dor,",in,LMC
-NGC 1975,Sa35s4ieni,441,paris,EtR),10),5,B?,1B,10.9,,,,
-NGC 1976,5,35.4,-5,27,Ori,E+R,66,60,eB1R,IrAF,37020-3,2.9,OB,Orion,nebula,M42.,[0%,Ori]
-NGC 1980,5235.45,$5154),6,Orig,se,14,14,vF,3,37043,2.77,O9III,[z,Ori]
-NGC 1977,513955),0ss4,526),Ort),EtR),20),10,1B,37018,4.59,B1V,[42,Ori]
-NGC 1982,5735505,5),160gn,Oris,EtRO,207015,vB1R,37061,6.85,B1V,M43,,
-$h2-264 $35:,"+10:,",Ori,E,270,240,4R,CA,36861-2,3.39,O8e+BO.5V,[A,Ori],
-NGC 1990,"$)36.2000-1812,",9,Orie,E+R.,SOWFS0,3B,37128,1.70,BOIae,fe,Ori],,
-NGC 1999,5,36.5,-6,42,Ori,E+tR,16,12,ak,2),9.3,B8,With,IC,427-8,nf.,[V380,Ori]
+NGC 1973,5 35.1,—4 44 ,0ri,E+R,5,5, ,1,B, , ,36958,7.36,B3V, ,
+NGC 2048,5 35.2,-69 46,Dor,E,18,12,vF, , ,Ir,AF, , , ,"Lies sp 30 Dor, in LMC"
+NGC 1975,5 35.4,-4 41,Ori,E+R,10,5,B?,1,B, , , ,10.9, , ,
+NGC 1976,5 35.4,-5 27,Ori,E+R,66,60,eB,1,R,Ir,AF,37020-3,2.9,OB,"Orion nebula M42. [Ori]"
+NGC 1980,5 35.4,-5 54,Ori,E,14,14,vF,3, , , ,37043,2.77,O9III,"[z,Ori]"
+NGC 1977,5 35.5,-4 52,Ori,E+R,20,10, ,1,B, , ,37018,4.59,B1V,"[42 Ori]"
+NGC 1982,5 35.6,-5 16,Ori,E+R,20,15,vB,1,R, , ,37061,6.85,B1V,"M43"
+Sh2-264,5 35:,+10:,Ori,E,270,240, ,4,R,C,A,36861-2,3.39,O8e+BO.5V,"[Ori]"
+NGC 1990,5 36.2,-1 12,Ori,E+R,50,50, ,3,B, , ,37128,1.70,BOIae,"[Ori]"
+NGC 1999,5 36.5,-6 42,Ori,E+R,16,12, ,1,I?, , , ,9.3,B8,"With IC 427-8 nf. [V380 Ori]"
 
 Nebulae-3:
 
