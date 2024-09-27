@@ -99,34 +99,31 @@ NGC 2071,5 47.2,+0 18,Ori,R,4,3,vF,2,I, , ,290861,9.5,F8, ,
 Sh2-276,5 48:,+1: ,Ori,E,600,30, ,3,R, , ,37742,2.05,09.5Ibe,"Barnards Loop, f part. [Ori?]"
  ,5 56:,-6: ,Ori,E,600,20, ,3,VR, , , , , ,"Southern extension of Barnards ,Loop"
 NGC 2149,6 03.5,-9 44,Mon,R,3,2,F,2,B, , , ,9.3, , ,
-
-Nebulae-4:
-
-$h2-241 604.1,+3015,Aur,E+R,10,2,IrAF,,,,,,,
-NGC 2170,607.5,-624,Mon,R,2,2,vF,1,MB,9.5,BL,,
-Sh2-247 6,08.5,+2137,Gem,E,10,10,3,VR,CA,41690,7.71,BV,
-$h2-261 6,08.9,+15,49,Ori,E,3015,3R,419977,8.42,08,Lowers,nebula,
-Cad 62,609.2,+18,41,Ori,R,30,2,28,13,Two,symmetrical,fans,extending,n~s
-NGC 2182,609.5,-6,20,Mon,R,30,3,1B,42261,9.0,B44,,
-NGC 2174-5,609.7,+2030,Ori,£E,40,30,oF,1R,IAF,42088,7.55,06,With,IC,2159,sf.,Contains,cluster
-NGC 2183,610.8,-613,Mon,R,1,1,oF,3B,13,,,,
-NGC 2185,611.1,-613,Mon,RF,3.,3,vF,3B,12,,,,
-Ic 2162,612.9,+1759,Ori,E,154,vF,2R,C,AF,10,Also,Sh2,"256-8,",with,p-f,extensions
-NGC 2195,614.4,+1739,Ori,F,Smatl,and,faint.,IC,2162,is,30,mp,
-IC 443,616.9,+22,47,Gem,E,50,40,F2,EF,43078,8.78,BOIV,"SNR,",with,PSR,0611+22,near,center
-IC 444,6,20.4,+23,16,Gem,R,8,4,3,VB,43836,7.5,BSI,(12,Gen]
-IC 446,6,31.0,+10,27,Mon,R,5,4,3B,10.5,BL,Same,as,IC,2167
-Ic 2169,6,"31,2",+954,Mon,R,25,20,FAB,Same,as,IC,447,
-"NGC 2237-9,46",6,32.3,+503,Mon,E,80,60,pB1ik,NGC,2244,Rosette,nebula,
-IC 448,632.7,+719,Mon,R,15,10,3,VB,46300,4.48,AOI,[13,Mon]
-NGC 2245,6,32.7,+1010,Mon,R,5s,3,11,10.8,Bip,,,
-NGC 2247,6,33.2,+1020,Mon,R,4,3,eF,21,259431,8.74,Bépe,
-$h2-282 6,38.0,+131,Mon,£E,40,15,3.,R,IraAF,47432,6.21,09.S51IT,
-NGC 2261,6,39.2,+8,44,Mon,E+R,2,1,B1iiI,R,Mon,"10,0",v,Hubdbles,variable,neb.,(fan-shaped)
-NGC 2264,640.9,+954,Mon,£E,60,30,1R,IrAF,47839,4.66v,O7Ve,Cone,nebula.,[S,Mon]
-NGC 2282,646.9,+119,Mon,R,303,F311,289120,9.3,B3,Same,as,IC,2172
-NGC 2316,659.7,~7,46,Mon,EHR,4,3,pF,2B,,,,
-Gon 1,704.3,-10,28,Mon,E+R,20,20,2R,IAF,53367,6.96,BOIVe?,RCW,2
+Sh2-241,6 04.1,+30 15,Aur,E+R,10, , ,2, ,Ir,AF, , , , ,
+NGC 2170,6 07.5,-6 24,Mon,R,2,2,vF,1,MB, , , ,9.5,B1, ,
+Sh2-247,6 08.5,+21 37,Gem,E,10,10, ,3,VR,C,A,41690,7.71,B1V, ,
+Sh2-261,6 08.9,+15 49,Ori,E,30,15, ,3,R, , ,41997?,8.42,08,"Lower's nebula"
+Ced 62,6 09.2,+18 41,Ori,R,3,2, ,2,B, , , ,13, ,"Two symmetrical fans extending n-s"
+NGC 2182,6 09.5,-6 20,Mon,R,3,3, ,1,B, , ,42261,9.0,B4, ,
+NGC 2174-5,6 09.7,+20 30,Ori,E,40,30,eF,1,R,Ir,AF,42088,7.55,06,"With IC 2159 sf. Contains cluster"
+NGC 2183,6 10.8,-6 13,Mon,R,1,1,eF,3,B, , , ,13, , ,
+NGC 2185,6 11.1,-6 13,Mon,R,3,3,vF,3,B, , , ,12, , ,
+Ic 2162,6 12.9,+17 59,Ori,E,15,4,vF,2,R,C,AF, ,10, ,"Also Sh2 256-8, with p-f extensions"
+NGC 2195,6 14.4,+17 39,Ori, , , ,F, , , , , , , ,"Small and faint. IC 2162 is 30' mp"
+IC 443,6 16.9,+22 47,Gem,E,50,40,F,2, ,E,F,43078,8.78,BOIV,"SNR, with PSR 0611+22 near center"
+IC 444,6 20.4,+23 16,Gem,R,8,4, ,3,VB, , ,43836,7.5,B9II,"[12 Gem]"
+IC 446,6 31.0,+10 27,Mon,R,5,4, ,3,B, , , ,10.5,B1,"Same as IC 2167"
+Ic 2169,6 31.2,+9 54,Mon,R,25,20,F,3,B, , , , , ,"Same as IC 447"
+"NGC 2237-9,46",6 32.3,+5 03,Mon,E,80,60,pB,1,R, , ,NGC 2244, , ,"Rosette nebula"
+IC 448,6 32.7,+7 19,Mon,R,15,10, ,3,VB, , ,46300,4.48,AOIb,"[13 Mon]"
+NGC 2245,6 32.7,+10 10,Mon,R,5,3, ,1,I, , , ,10.8,B1p, ,
+NGC 2247,6 33.2,+10 20,Mon,R,4,3,eF,2,I, , ,259431,8.74,B6pe, ,
+Sh2-282,6 38.0,+1 31,Mon,E,40,15, ,3,R,Ir,AF,47432,6.21,09.5III, ,
+NGC 2261,6 39.2,+8 44,Mon,E+R,2,1,B,1,I, , ,R Mon,10.0 v, ,"Hubdble's variable neb. (fan-shaped)"
+NGC 2264,6 40.9,+9 54,Mon,E,60,30, ,1,R,Ir,AF,47839,4.66v,O7Ve,"Cone nebula. [S Mon]"
+NGC 2282,6 46.9,+1 19,Mon,R,3,3,F,3,I, , ,289120,9.3,B3,"Same as IC 2172"
+NGC 2316,6 59.7,-7 46,Mon,E+R,4,3,pF,2,B, , , , , , ,
+Gum 1,7 04.3,-10 28,Mon,E+R,20,20, ,2,R,Ir,AF,53367,6.96,BOIVe?,"RCW 2"
 
 Nebulae-5:
 
