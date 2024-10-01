@@ -124,34 +124,31 @@ NGC 2264,6 40.9,+9 54,Mon,E,60,30, ,1,R,Ir,AF,47839,4.66v,O7Ve,"Cone nebula. [S 
 NGC 2282,6 46.9,+1 19,Mon,R,3,3,F,3,I, , ,289120,9.3,B3,"Same as IC 2172"
 NGC 2316,6 59.7,-7 46,Mon,E+R,4,3,pF,2,B, , , , , , ,
 Gum 1,7 04.3,-10 28,Mon,E+R,20,20, ,2,R,Ir,AF,53367,6.96,BOIVe?,"RCW 2"
-
-Nebulae-5:
-
-IC 2177,705.1,-10,42,Mon,E,120,40,3R,54662,6.21,O71II,Gom,"2,",RCW,"1,",Sh2-296
-Ced 90,7:05.2,-12,20,CMa,E+tR,10,10,11,IrAF,53623,8.5,BS,Gun,"3,",RCW,1
-IC 466,708.6,-419,Mon,EHR,1,1,vF,2,RR,IcAF,,,
-$h2-301 709.8,-18,29,CMa,£E,8,7,1R,E,AF,10,Gun,"5,",RCW,6
-NGC 2362,7:13.41:,-24,35:,CMa,E,300,906,5,VR,IrAF,57061,4.40,O9Ib,[cv,CMa]
-Sh2-294 716.6,-926,Mon,E,8,7,2R,~,IrAF,,,,,
-Ic 468,717.5,-13,49S,CMe,OE,20,20,vF,3,BR,,,
-NGC 2359,718.6,-13,12,CMa,E,8,6,vF?,2R,IrF,36925,WN4,Gum,"4,",RCW,"5,",ring-shaped
-vdB 96,719.6,-23,58,CMa,BR,10,65,3B,57281,9.2,BS,Several,components
-$h2-302 731.6,-16,58,Pup,£E,20,«20,4R,EA,$9934,7.8,BS5.5V¥,Gum,"6,",RCW,7
-vdB 97,732.6,-16,54,Pup,R,2,3B,9.9,Near,H,II,region,Sh2-302
-$h2-307 735.5,-18,46,Pup,£E,4,4,3,VR,IraF,Gam,"7,",RCW,12
-vdB 98,7,36.4,-25,20,Pup,R,1515,3,VB,61071,7.3,BS,
-NGC 2467,7,52.5,-26,24,Pup,E,8,7,PBiRk,IrAF,64315,9.2,B,Gum,"9,",RCW,16.,Faint,streamers,and,cl.
-NGC 2579,820.9,-36,13,Pup,£E,2,10.2,Gum,"11,",RCW,20,,
-Gum 12,8,30:,45:,Vel,E,1200,720,4,cr,Gum,"nebula,",Vela,SNR,with,PSR,0833-45
-NEC 2626,835.6,-40,40,Vel,ER,5,pB,1,10.02,B1V,,,
-Gum 15,844.6,-4117,Vel,E,20,3,RCW,"32,",Brighter,knot,in,Gum,nebula
-Gua 17,8,$0.5,-42,07,Vel,E,100,65,31,RCW,"3,",Bright,"knot,",dark,lane,in,Gun
-Gun 23,859.7,-47,27,Vel,£E,20,«#10,2,RCW,38.,Part,of,Gum,nebule
-Sh2-312 9,00:,~26:,Pyx,E,720,3,IrAF,,,,,,
-Gum 25,902.4,-48,42,Vel,£E,7,6,2,RCW,40,,,
-RCW 47,1003.2,-58,57,Car,£E,25,20,3,,,,,
-NGC 3199,1017.1,-37,55,Car,E,22,22,vB,3,89358,11.1,WC,RCW,48.,A,partial,ring
-NGC 3247,10,24.8,-57,53,Car,£,6,2,RCW,49,,,
+IC 2177,7 05.1,-10 42,Mon,E,120,40, ,3,R, , ,54662,6.21,O71II,"Gum 2, RCW 1, Sh2-296"
+Ced 90,7 05.2,-12 20,CMa,E+R,10,10, ,1,I,Ir,AF,53623,8.5,B9,"Gum 3, RCW 1"
+IC 466,7 08.6,-4 19,Mon,E+R,1,1,vF,1,R,Ir,AF, , , , ,
+Sh2-301,7 09.8,-18 29,CMa,E,8,7, ,1,R,E,AF, ,10, ,"Gum 5, RCW 6"
+NGC 2362,7 13.1:,-24 35:,CMa,E,300,90, ,5,VR,Ir,AF,57061,4.40,O9Ib,"[ CMa]"
+Sh2-294,7 16.6,-9 26,Mon,E,8,7, ,2,R,Ir,AF, , , , ,
+IC 468,7 17.5,-13 05,CMa,E,20,20,vF,3,R, , , , , , ,
+NGC 2359,7 18.6,-13 12,CMa,E,8,6,vF?,2,R,Ir,F,56925, ,WN4,"Gum 4, RCW 5, ring-shaped"
+vdB 96,7 19.6,-23 58,CMa,R,10,5, ,3,B, , ,57281,9.2,B9,"Several components"
+Sh2-302,7 31.6,-16 58,Pup,E,20,20, ,4,R,E,A,59934,7.8,B5.5V,"Gum 6, RCW 7"
+vdB 97,7 32.6,-16 54,Pup,R,2, , ,3,B, , , ,9.9, ,"Near H II region Sh2-302"
+Sh2-307,7 35.5,-18 46,Pup,E,4,4, ,3,VR,Ir,AF, , , ,"Gum 7, RCW 12"
+vdB 98,7 36.4,-25 20,Pup,R,15,15, ,3,VB, , ,61071,7.3,B5, ,
+NGC 2467,7 52.5,-26 24,Pup,E,8,7,pB,1,R,Ir,AF,64315,9.2,B,"Gum 9, RCW 16. Faint streamers and cl."
+NGC 2579,8 20.9,-36 13,Pup,E,2, , , , , , , ,10.2, ,"Gum 11, RCW 20"
+Gum 12,8 30:,-45:,Vel,E,1200,720, ,4, ,C,F, , , ,"Gum,"nebula,",Vela,SNR,with,PSR,0833-45"
+NGC 2626,8 35.6,-40 40,Vel,E+R,5, ,pB,1,1 , , ,10.02,B1V, , ,
+Gum 15,8 44.6,-41 17,Vel,E,20, , ,3, , , , , , ,"RCW 32. Brighter knot in Gum nebula"
+Gua 17,8 50.5,-42 07,Vel,E,100,65, ,3,I, , , , , ,"RCW 3. Bright knot, dark lane in Gum"
+Gun 23,8 59.7,-47 27,Vel,E,20,10, ,2, , , , , , ,"RCW 38. Part of Gum nebula"
+Sh2-312,9 00:,-26:,Pyx,E,720, , ,3, ,Ir,AF, , , , , ,
+Gum 25,9 02.4,-48 42,Vel,E,7,6, ,2, , , , , , ,"RCW 40"
+RCW 47,10 05.2,-58 57,Car,E,25,20, ,3, , , , , , , ,
+NGC 3199,10 17.1,-57 55,Car,E,22,22,vB,3, , , ,89358,11.1,WC,"RCW 48. A partial ring"
+NGC 3247,10 24.8,-57 53,Car,E,6, , ,2, , , , , , ,"RCW 49"
 
 Nebulae-6:
 
