@@ -149,34 +149,31 @@ Gum 25,9 02.4,-48 42,Vel,E,7,6, ,2, , , , , , ,"RCW 40"
 RCW 47,10 05.2,-58 57,Car,E,25,20, ,3, , , , , , , ,
 NGC 3199,10 17.1,-57 55,Car,E,22,22,vB,3, , , ,89358,11.1,WC,"RCW 48. A partial ring"
 NGC 3247,10 24.8,-57 53,Car,E,6, , ,2, , , , , , ,"RCW 49"
-
-Nebulae-6:
-
-RCW 50,"1ot26""4",-5709,car,E,12,12,3,,,,,,
-NGC 3293,10,34.0,-58,06,Car,EtR,40,B?,3,R-B,91969,"6,51",BOIb,Part,of,RCW,53
-NGC 3324,10,37.7,-58,40,Car,EHR,16,14,pB,2,R-B,92206,7.7,06,Part,of,RCW,53.,Includes,IC,2599
-NGC 3372,10,43.8,-59,52,Car,E,120,120,1k,93308,6.21v,n,Car,"nebula,",Contains,Keyhole,"neb,"
-Gum 32,10,46.3,-58,39,Car,E,7,2,10.0,RCW,52,,
-NGC 3503,1101.3,-59,51,Car,EHR,3,vF,2,MR,10.46,BOVe,,
-RCW 58,1106.3,-65,34,Car,E,7,7,3,96548,7.70,¥N8,Ring~shaped,
-NGC 3572,1109.9,-60,06,Car,E,20,3,97151?,7.74,B2Ve,RCW,54,
-"NGC 3576,79",1112.0,~-6112,Car,E,20,15,F2,Part,of,RCW,57,with,NGC,"3581-2,84,86"
-NGC 3603,1115.1,~-61,12,Car,E,12,«10,2,97950,9.2,¥NS+0,Part,of,RCW,57
-Gum 39,1128.9,-62,41,Cen,E,20,«10,3R,9989727,8.6,06,Part,of,RCW,60
-IC 2872,1129.0,-6257,Cen,E,12.0,(«4,4R,998987,9.3,BS:III:,Part,of,RCW,60
-Gum 41,11,30.4,-63,50,Cen,E+R,15,15,3,VR-B,100099,"8,08",O9III,RCW,61
-RCW 59,1137:,0-57:,Cen,E,180,150,3,c,,,,,
-"IC 2944,8",11,38.3,-63,22,Cen,E,715,50,2R,100841,3.13,B9III,RCW,"62,",[A,Cen]
-NGC 3882,11,46.1,-56,22,Cen,Rk?,vF,102277,9.0,A2:¥,,,
-IC 2966,1150.4,-64,54,Mus,R,3,21,11.47,BO.5V,,,,
-Ced 122,13,25.4:,-64,01:,Cen,E,150,150,1139047,5.51,BOIa,Large,nebula,f,Coalsack.,[@,Mus]
-NGC 5367,13,57.7,-39,59,Cen,R,4,3,vB,2,Double,"nucleus,",includes,IC,4347
-vdBH 63,14,49.4,-65,14,Cir,R,1,2B,130079,10.49,B9Vp?,Near,dark,nebula,Bernes,145
-vdBH 65a,15,01.1,-63,17,Cir,R,1R,13,.86v?,Cometary,,,
-$h2-1 15,58.9,-26,09,Sco,ER,90,10,4,VB,IrAF,143018,2.89,BIV+B2V,[x,Sco],Nebula,brightest,s,of,star
-Ic 4592,16,12.0:,-19,28:,Sco,R,150,60,3,R-MB,145501-2,4.00,B2IV-V,[v,Sco],Outer,region,is,red,due,to
-RCW 103,1617.1,-5107,Nor,E,53,2,SNR,[|,light,from,Antares!,,
-RCW 102,1617.8,~5155,Nor,E,12.,8,2,145492,9.3,B2Ib,,,
+RCW 50,10 26.4,-57 09,Car,E,12,12, ,3, , , , , , , ,
+NGC 3293,10 34.0,-58 06,Car,E+R,40, ,B?,3,R-B, , ,91969,6.51,BOIb,"Part of RCW 53"
+NGC 3324,10 37.7,-58 40,Car,E+R,16,14,pB,2,R-B, , ,92206,7.7,06,"Part of RCW 53. Includes IC 2599"
+NGC 3372,10 43.8,-59 52,Car,E,120,120, ,1,R, , ,93308,6.21v, ,"Car nebula. Contains Keyhole neb"
+Gum 32,10 46.3,-58 39,Car,E,7, , ,2, , , , ,10.0, ,"RCW 52"
+NGC 3503,11 01.3,-59 51,Car,E+R,3, ,vF,2,MR, , , ,10.46,BOVe, ,
+RCW 58,11 06.3,-65 34,Car,E,7,7, ,3, , , ,96548,7.70,WN8,"Ring-shaped"
+NGC 3572,11 09.9,-60 06,Car,E,20, , ,3, , , ,97151?,7.74,B2Ve,"RCW 54"
+"NGC 3576,79",11 12.0,-61 12,Car,E,20,15,F,2, , , , , , ,"Part of RCW 57 with NGC 3581-2, 84, 86"
+NGC 3603,11 15.1,-61 12,Car,E,12,10, ,2, , , ,97950,9.2,WN5+0,"Part of RCW 57"
+Gum 39,11 28.9,-62 41,Cen,E,20,10, ,3,R, , ,99897?,8.6,06,"Part of RCW 60"
+IC 2872,11 29.0,-62 57,Cen,E,12,4, ,4,R, , ,99898?,9.3,B5:III:,"Part of RCW 60"
+Gum 41,11 30.4,-63 50,Cen,E+R,15,15, ,3,VR-B, , ,100099,8.08,O9III,"RCW 61"
+RCW 59,11 37:,-57:,Cen,E,180,150, ,3, ,C, , , , , ,
+"IC 2944,8",11 38.3,-63 22,Cen,E,75,50, ,2,R, , ,100841,3.13,B9III,"RCW 62."
+NGC 3882,11 46.1,-56 22,Cen,R?, , ,vF, , , , ,102277,9.0,A2:V, ,
+IC 2966,11 50.4,-64 54,Mus,R,3, , ,2,I, , , ,11.47,BO.5V, ,
+Ced 122,13 25.4:,-64 01:,Cen,E,150,150, , , , , ,113904?,5.51,BOIa,"Large nebula f Coalsack."
+NGC 5367,13 57.7,-39 59,Cen,R,4,3,vB,2, , , , , , ,"Double nucleus, includes IC 4347"
+vdBH 63,14 49.4,-65 14,Cir,R,1, , ,2,B, , ,130079,10.49,B9Vp?,"Near dark nebula Bernes 145"
+vdBH 65a,15 01.1,-63 17,Cir,R, , , ,1,R, , , ,13.86v?, ,"Cometary"
+Sh2-1,15 58.9,-26 09,Sco,E+R,90,10, ,4,VB,Ir,AF,143018,2.89,BIV+B2V,"Nebula brightest s of star"
+Ic 4592,16 12.0:,-19 28:,Sco,R,150,60, ,3,R-MB, , ,145501-2,4.00,B2IV-V,"Outer region is red due to light from Antares"
+RCW 103,16 17.1,-51 07,Nor,E,5,3, ,2, , , , , , ,"SNR"
+RCW 102,16 17.8,-51 55,Nor,E,12,8, ,2, , , ,145492,9.3,B2Ib, ,
 
 
 Nebulae-7:
