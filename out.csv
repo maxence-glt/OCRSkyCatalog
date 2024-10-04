@@ -199,35 +199,31 @@ Sh2-16,17 46.6,-29 18,Sgr,E,12,12, ,3,VR,Ir,AF,Cr 347, , ,"Gum 70"
 NGC 6514,18 02.6,-23 02,Sgr,E+R,29,27,vB,1,R-VB,Ir,F,164492,7.63,O5e,"Trifid nebula M20"
 NGC 6526,18 02.6,-23 35,Sgr,E,40, ,F,3, ,C,AF,164971,7.3,BO,"Gum 74, RCW 145"
 NGC 6523,18 03.8,-24 23,Ser,E,90,40,vB,1,R,Ir,F,NGC 6530, , ,"Lagoon nebula M8. Faint f ext. IC 4678"
-
-
-Nebulae-8:
-
-Sh2-46 1806.1,-1410,SerCd,E,30,20,3R,EAF,165319,7.94,BOIa,Gum,"80,",RCW,158
-IC 4684,18,09.1,-23,25,Sgr,R,302,3B,165872,9.3,BS,IC,4681,is,12,p
-IC 4685,18,"09,3",-23,59,Sgr,R,10,«8,3,165921,7.28,"07,5",With,S-shaped,dark,nebula,B303
-Ie 1274,18,09.5,~-23,44,Sgr,E,9,8,1R,CAF,166033,9.9,BS,Adjacent,to,dark,nebula,B91
-Ic 1275,18,10.0,-23,50,Sgr,E,10,6,1R,CA,_,166107,7.96,B5V,Adjacent,to,dark,nebula,B91
-NGC 6559,18,10.0,-24,06,Sgr,E,8,65,vF,1,RR,IxsAF,9.8,BL,Gum,"75,",RCW,146
-Sh2-35 18,15.9,-2015,Sgr,E,10,7,4R,IrA,167264,5.38,BOla,Gum,"77b,",RCW,151
-NGC 6589,18,16.3,~19,48,Sgr,R,5,4,eF,1,MB,167638,9.4,BS
-IC 4701,1816.5,-16,44,Sgr,E,60,40,4R,IAF,NGC,6596,Gum,"79,",RCW,"157,",with,IC,4715,f
-"NGC 6590,95",1817.0,-19,53,Sgr,R,4,2,pF,1,MB,10.2,BE,Same,as,IC,4700
-Ic 1283-4,1817.8,-19,40,Sgr,E+R,17,15,2R,IrAF,167815,7.56,B2,Gum,"78,",RCW,153
-NGC 6604,18,17.9,-11,44,SerCd,E,60,30,1R,IrF,NGC,6604,Gum,"84-85,",RCW,167
-NGC 6611,18,18.8,-13,47,SerCd,E,35,28,1R,IrF,NGC,6611,Eagle,nebula,and,cluster,M16.,(IC,4703
-Ic 4715,1819.9,-17,59,Sgr,E,30.5,2,VR,Star,cloud,|,refers,to,nebula,only.)
-NGC 6618,18,20.8,-16,11,Sgr,E,46,37,B1R,IsF,NGC,6618,Omega,nebula,M17.,IC,4706-7,10,n
-$h2-53 18,25.2,-13,13,Sct,E,15,3,IrAF,,,,,
-vdB 123,18,30.5,+111,SerCdR,1005,3,MB,170634,9.1,AO,,,
-Ic 1287,18,31.3,-10,50,Sct,R,4434,3,VB,170740,5.5,B2V,
-Sh2-64 18,31.6,-155,SerCd,E,20,«8,2R,IraF,,,,,
-Sh2-55 18,32.2,-11,46,Set,E,20,20,6B,IrAF,,,,
-NGC 6726-7,1901.7,-36,53,CrA,R,2,2,F,176386,7.20,AOV,"Double,",near,dark,nebula,Bernes,157
-NGC 6729,1901.9,-36,57,CrA,EHR,1,R,Cra,9.7,v,FS5pe,"Cometary,",with,varying,size
-Sh2-72 19,03.8,+219,Agi,E,25,5,irAF,,,,,,
-I€ 4812,19,05.2,-3703,CrA,R?,176269,6.69,BSV,,,,,
-vdB 126,19,27.1,+22,43,Vul,R,7,5,2,VB,182918,8.3,A2
+Sh2-46,18 06.1,-14 10,SerCd,E,30,20, ,3,R,E,AF,165319,7.94,BOIa,"Gum 80, RCW 158"
+IC 4684,18 09.1,-23 25,Sgr,R,3,2, ,3,B, , ,165872,9.3,B9,"IC 4681 is 12' p"
+IC 4685,18 09.3,-23 59,Sgr,R,10,8, ,3, , , ,165921,7.28,07.5,"With S-shaped dark nebula B303"
+Ie 1274,18 09.5,-23 44,Sgr,E,9,8, ,1,R,C,AF,166033,9.9,B5,"Adjacent to dark nebula B91"
+Ic 1275,18 10.0,-23 50,Sgr,E,10,6, ,1,R,C,A,166107,7.96,B5V,"Adjacent to dark nebula B91"
+NGC 6559,18 10.0,-24 06,Sgr,E,8,5,vF,1,R,Ir,AF, ,9.8,B1,"Gum 75, RCW 146"
+Sh2-35,18 15.9,-20 15,Sgr,E,10,7, ,4,R,Ir,A,167264,5.38,BOIa,"Gum 77b, RCW 151"
+NGC 6589,18 16.3,-19 48,Sgr,R,5,4,eF,1,MB, , ,167638,9.4,B5, ,
+IC 4701,18 16.5,-16 44,Sgr,E,60,40, ,4,R,Ir,AF,NGC 6596, , ,"Gum 79, RCW 157, with IC 4715 f"
+"NGC 6590,95",18 17.0,-19 53,Sgr,R,4,2,pF,1,MB, , , ,10.2,B6,"Same as IC 4700"
+Ic 1283-4,18 17.8,-19 40,Sgr,E+R,17,15, ,2,R,Ir,AF,167815,7.56,B2,"Gum 78, RCW 153"
+NGC 6604,18 17.9,-11 44,SerCd,E,60,30, ,1,R,Ir,F,NGC 6604, , ,"Gum 84-85, RCW 167"
+NGC 6611,18 18.8,-13 47,SerCd,E,35,28, ,1,R,Ir,F,NGC 6611, , ,"Eagle nebula and cluster M16. (IC 4703 refers to nebula only.)"
+IC 4715,18 19.9,-17 59,Sgr,E,30,5, ,2,VR, , , , , ,"Star cloud"
+NGC 6618,18 20.8,-16 11,Sgr,E,46,37,B,1,R,Ir,F,NGC 6618, , ,"Omega nebula M17. IC 4706-7 10' n"
+Sh2-53,18 25.2,-13 13,Sct,E,15, , ,3,Ir,AF, , , , , ,
+vdB 123,18 30.5,+1 11,SerCd,R,10,5, ,3,MB, , ,170634,9.1,AO, ,
+IC 1287,18 31.3,-10 50,Sct,R,44,34, ,3, , ,VB,170740,5.5,B2V, ,
+Sh2-64,18 31.6,-1 55,SerCd,E,20,8, ,2,R,Ir,AF, , , , ,
+Sh2-55,18 32.2,-11 46,Sct,E,20,20, ,6,B,Ir,AF, , , , ,
+NGC 6726-7,19 01.7,-36 53,CrA,R,2,2,F, , , , ,176386,7.20,AOV,"Double, near dark nebula Bernes 157"
+NGC 6729,19 01.9,-36 57,CrA,E+R,1, , , , , , ,R Cra,9.7 v,F5pe,"Cometary, with varying size"
+Sh2-72,19 03.8,+2 19,Agl,E,25, , ,5, ,Ir,AF, , , , ,
+IC 4812,19 05.2,-37 03,CrA,R?, , , , , , , ,176269,6.69,B9V, ,
+vdB 126,19 27.1,+22 43,Vul,R,7,5, ,2,VB, , ,182918,8.3,A2, ,
 
 Nebulae-9:
 
