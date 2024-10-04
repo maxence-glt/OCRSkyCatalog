@@ -278,11 +278,12 @@ Sh2-132,22 18.7,+56 08,Cep,E,30,20, ,2,R,Ir,F,211853,9.0,Ob,"Cep OB1"
 
 Nebulae-11:
 
-NGC 7380,22,47.6,+58,04,Cep,E,25,30,1R,IF,NGC,7380,Cep,OBL
-S$h2-155 22,356.8,+6237,Cep,E,50,30,2R,Irak,217086,7.65,05,Cave,"nebulae,",Cep,OB3
-Ic 1470,23,05.2,+6015,Cep,E,15),1,vF,2,C,AF,Planetary?,
-NGC 7538,2313.5,+6131,Cep,£E,lo),65,wF,1R_,E,AR,,,
-Sh2-157 2316.1,+6002,Cas,£E,60,50,3,I,UrF,219287,8.91,Bole,3,core,is,Sh2-157;,rest,Lynds,Group,11
-NGC 7635,23,20.7,+6112,Cas,£E,15,8,vF,LR,IrF,220057,6.93,B2IV,Bubble,nebula
-Ced 211,23,43.8,-15,17,Aqr,E,2,1,IrF,222800,6.36v,M7IIIpey+B2,(R,"Agr,",symbiotic,star]
-vdB 150,23,55.1,+76,37,Cep,11,3,VB,210806,8.4,AO,,
+NGC 7380,22 47.6,+58 04,Cep,E,25,30, ,1,R,Ir,F,NGC 7380, , ,"Cep OB1"
+Sh2-155,22 56.8,+62 37,Cep,E,50,30, ,2,R,Ir,AF,217086,7.65,05,"Cave nebulae, Cep OB3"
+IC 1470,23 05.2,+60 15,Cep,E,15,1,vF,2, ,C,AF, , , ,"Planetary?"
+NGC 7538,23 13.5,+61 31,Cep,E,10,5,vF,1,R,E,AF, , , , ,
+Sh2-157,23 16.1,+60 02,Cas,E,60,50, ,3,I,Ir,F,219287,8.91,B0Ia,"3' core is Sh2-157; rest Lynds Group 11"
+
+NGC 7635,23 20.7,+61 12,Cas,E,15,8,vF,1,R,Ir,F,220057,6.93,B2IV,"Bubble nebula"
+Ced 211,23 43.8,-15 17,Aqr,E,2,1, , , ,Ir,F,222800,6.36v,M7IIIpev+B2,"[R Aqr, symbiotic star]"
+vdB 150,23 55.1,+76 37,Cep,R,11, , ,3,VB, , ,210806,8.4,AO, ,
