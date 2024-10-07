@@ -1,7 +1,7 @@
 Name,RA,Dec,Const,Type,DimMax,DimMin,Vis,Brightness,Color,Shape,Structure,HD,*Mag,*Spec,Notes
 NGC 7822,0 03.6,+68 37,Cep,E,60,30,eeF,3,R, , , , , ,Arc of nebulosity n of Ced 214
 Ced 214,0 04.7,+67 10,Cep,E+R,50,40, ,2,R,Ir,AF,225216?,5.67,gK1,"Surrounded by faint nebulousarcs; this is often confused with NGC 7822"
-vdB 1,0 11.0,+58 46,Cas,R,9, , ,2,VB, , , ,627,8.6,A, ,
+vdB 1,0 11.0,+58 46,Cas,R,9, , ,2,VB, , ,627,8.6,A, ,
 NGC 281,0 52.8,+56 36,Cas,E,35,30,F,1,R,Ir,AF,5005,7.76,06, ,
 Ic 59,0 56.7,+61 04,Cas,E+R,10,5,pF,2,B, , ,5394,2.47v,BOIVe,"[y Cas]"
 NGC 346,0 59.1,-72 11,Tuc,E,14,11,B, , ,Ir,AF, , , ,"Largest diffuse nebula in SMC"
